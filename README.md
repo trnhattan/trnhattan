@@ -1,8 +1,9 @@
 # Hello there! 👋
 ## ⭐ About me
 🎓 I am Trinh Nhat Tan, a **final year** student at [University of Information Technology](https://www.uit.edu.vn/). I am really into **Computer Science** and pursuing my Bachelor's degree in it too!
-
+<!---
 👀 To me, I have a keen interest in data, especially with image data, so that there were more than 3 final projects of different subjects that I hold a role in analyse and visualise data. 
+--->
 
 💞️ I’m looking to collaborate on **Data Science, Computer Vision**, someone can help me broaden my mind in this AI Industry.
 
